@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/zsh
 # Publish to github pages on gh-pages branch
 
 if [ -n "$(git status --porcelain)" ]; then

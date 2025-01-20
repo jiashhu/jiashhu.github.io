@@ -3,113 +3,141 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
+@article{BHL2024SJNA,
+  abbr={SIAM J. Numer. Anal.},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  title = {A convergent evolving finite element method with artificial tangential motion for surface evolution under a prescribed velocity field},
+  author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
+  date = {2024},
+  volume = {62},
+  number = {5},
+  pages = {2172--2195},
+  abstract = {A novel evolving surface finite element method, based on a novel equivalent formulation of the continuous problem, is proposed for computing the evolution of a closed hypersurface moving under a prescribed velocity field in two- and threedimensional spaces. The method improves the mesh quality of the approximate surface by minimizing the rate of deformation using an artificial tangential motion. The transport evolution equations of the normal vector and the extrinsic Weingarten matrix are derived and coupled with the surface evolution equations to ensure stability and convergence of the numerical approximations. Optimal-order convergence of the semi-discrete evolving surface finite element method is proved for finite elements of degree k {$\geq$} 2. Numerical examples are provided to illustrate the convergence of the proposed method and its effectiveness in improving mesh quality on the approximate evolving surface.},
+  langid = {english},
+  journal = {SIAM Journal on Numerical Analysis},
+  year = {2024},
+  dimensions = {true},
+  selected={true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
+@article{BHL2024SJSC,
+  abbr={SIAM J. Sci. Comput.},
   bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+  title = {High-order mass- and energy-conserving methods for the nonlinear {{Schr\"odinger}} equation},
+  author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
+  date = {2024-04-30},
+  volume = {46},
+  number = {2},
+  pages = {A1026-A1046},
+  doi = {10.1137/22M152178X},
+  abstract = {A class of high-order mass- and energy-conserving methods is proposed for the nonlinear Schr\textbackslash o"dinger equation based on Gauss collocation in time and finite element discretization in space, by introducing a mass- and energy-correction post-process at every time level. The existence, uniqueness, and high-order convergence of the numerical solutions are proved. In particular, the error of the numerical solution is O(\textbackslash tau  k+1 + hp) in the L\textbackslash infty (0, T ; H1) norm after incorporating the accumulation errors arising from the post-processing correction procedure at all time levels, where k and p denote the degrees of finite elements in time and space, respectively, which can be arbitrarily large. Several numerical examples are provided to illustrate the performance of the proposed new method, including the conservation of mass and energy and the high-order convergence in simulating solitons and bi-solitons.},
+  langid = {english},
+  journal = {SIAM Journal on Scientific Compututing},
+  year = {2024},
+  code = {https://github.com/jiashhu/ME-Conserved-NLS},
+  dimensions = {true},
+  selected={true}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
+@article{HL2022NM,
+  abbr={Numer. Math.},
   bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+  title = {Evolving finite element methods with an artificial tangential velocity for mean curvature flow and {{Willmore}} flow},
+  author = {Hu, Jiashun and Li, Buyang},
+  date = {2022},
+  volume = {152},
+  number = {1},
+  pages = {127--181},
+  doi = {10.1007/s00211-022-01309-9},
+  abstract = {An artificial tangential velocity is introduced into the evolving finite element methods for mean curvature flow and Willmore flow proposed by Kov\'acs et al. (Numer Math 143(4), 797-853, 2019, Numer Math 149, 595-643, 2021) in order to improve the mesh quality in the computation. The artificial tangential velocity is constructed by considering a limiting situation in the method proposed by Barrett et al. (J Comput Phys 222(1), 441-467, 2007, J Comput Phys 227(9), 4281-4307, 2008, SIAM J Sci Comput 31(1), 225-253, 2008) . The stability of the artificial tangential velocity is proved. The optimal-order convergence of the evolving finite element methods with artificial tangential velocity are proved for both mean curvature flow and Willmore flow. Extensive numerical experiments are presented to illustrate the convergence of the method and the performance of the artificial tangential velocity in improving the mesh quality.},
+  langid = {english},
+  journal = {Numerische Mathematik},
+  year = {2022},
+  dimensions = {true},
+  selected={true}
 }
 
-@book{przibram1967letters,
+@article{HMZ2018FMC,
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+  title = {Global geometrical optics method for vector-valued {{Schr\"odinger}} problems},
+  author = {Hu, Jiashun and Ma, Xiang and Zheng, Chunxiong},
+  date = {2018-06},
+  volume = {13},
+  number = {3},
+  pages = {579--606},
+  doi = {10.1007/s11464-018-0704-1},
+  eissn = {1673-3576},
+  journal = {Frontiers of Mathematics in China},
+  year = {2018}
+}
+
+@article{HZ2017JCAM,
+  abbr = {J. Comput. Appl. Math.},
+  bibtex_show={true},
+  title = {Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear {{Schr\"odinger}} equation in unbounded domains},
+  author = {Hu, Jiashun and Zheng, Chunxiong},
+  date = {2017-12-15},
+  volume = {326},
+  pages = {116--125},
+  doi = {10.1016/j.cam.2017.05.018},
+  eissn = {1879-1778},
+  journal = {Journal of Computational and Applied Mathematics},
+  year = {2017}
+}
+
+@article{SHD+2020SA,
+  abbr = {Sci. Adv.},
+  altmetric = {true},
+  bibshow = {true},
+  title = {Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by {{PT}} symmetry},
+  author = {Song, Qianju and Hu, Jiashun and Dai, Shiwei and Zheng, Chunxiong and Han, Dezhuan and Zi, Jian and Zhang, Z. Q. and Chan, C. T.},
+  date = {2020-08},
+  publisher = {American Association for the Advancement of Science},
+  abstract = {A new type of bound states induced by PT symmetry is found which does not radiate but can be excited from the far field.},
+  langid = {english},
+  doi = {10.1126/sciadv.abc1160},
+  journal = {Science Advances},
+  dimensions = {true},
+  year = {2020}
+}
+
+@article{ZH2020CMS,
+  abbr = {Commun. Math. Sci.},
+  bibshow = {true},
+  title = {Extended {{WKB}} analysis for the linear vectorial wave equation in the high-frequency regime},
+  author = {Zheng, Chunxiong and Hu, Jiashun},
+  date = {2020-01-01},
+  volume = {18},
+  pages = {687--706},
+  doi = {10.4310/CMS.2020.v18.n3.a5},
+  journal = {Communications in Mathematical Sciences},
+  year = {2020}
+}
+
+@article{ZH2020JSC,
+  abbr = {J. Sci. Comput.},
+  bibshow = {true},
+  title = {Optimal error estimate of the extended-{{WKB}} approximation to the high frequency wave-type equation in the semi-classical regime},
+  author = {Zheng, Chunxiong and Hu, Jiashun},
+  date = {2020},
+  abstract = {For the Cauchy problem of the high frequency wave-type equation with Wentzel--Kramers--Brillouin (WKB) type initial data, the extended Wentzel--Kramers--Brillouin (E-WKB) ansatz is an asymptotically valid solution. This ansatz is globally defined and formulated as an integral of coherent states over the displaced Lagrangian submanifold. This paper proves the optimal first order error estimate of the proposed E-WKB ansatz in \$\$L\textasciicircum 2\$\$ L 2 norm for the wave-type equation in the semi-classical regime. The key ingredients in the proof are the moving frame technique developed in Zheng (Commun Math Sci 11:105--140, 2013) and the deep relations between the E-WKB analysis and the classical WKB analysis. Numerical results on the linear KdV equation verify the theoretical analysis.},
+  langid = {english},
+  journal = {Journal of Scientific Computing},
+  year = {2020}
+}
+
+@article{ZHD+2017SJSC,
+  abbr = {SIAM J. Sci. Comput.},
+  bibtex_show={true},
+  title = {Numerical solution of the nonlocal diffusion equation on the real line},
+  author = {Zheng, Chunxiong and Hu, Jiashun and Du, Qiang and Zhang, Jiwei},
+  date = {2017-01-01},
+  volume = {39},
+  number = {5},
+  pages = {A1951-A1968},
+  publisher = {{Society for Industrial and Applied Mathematics}},
+  doi = {10.1137/16M1090107},
+  abstract = {Numerical computation of a nonlocal diffusion equation on the real axis is considered in this paper. We first apply an extensively studied quadrature scheme to obtain a discrete nonlocal diffusion system on an unbounded domain. Then we derive an alternative formulation of the discrete problem based on the spectral analysis of the \$z\$-transform. This new formulation can be seen as a system defined on a bounded domain with an artificial boundary condition, and it allows us to reformulate the original infinite domain problem into an equivalent bounded domain problem. To numerically implement the exact artificial boundary condition, we apply the trapezoidal quadrature rule to approximate the contour integral induced by the inverse \$z\$-transform. Numerical examples are presented to demonstrate the effectiveness of our approach.},
+  journal = {SIAM Journal on Scientific Computing},
+  year = {2017}
 }

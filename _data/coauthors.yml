@@ -1,34 +1,29 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"zheng":
+  - firstname: ["Chunxiong", "C.", "C. X."]
+    url: https://www.researchgate.net/profile/Chunxiong-Zheng
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"li":
+  - firstname: ["Buyang", "B.", "B. Y."]
+    url: https://libuyang.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"du":
+  - firstname: ["Qiang", "Q."]
+    url: https://www.columbia.edu/~qd2125/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zhang":
+  - firstname: ["Jiwei", "J.", "J. W."]
+    url: https://www.researchgate.net/profile/Jiwei-Zhang-4
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"han":
+  - firstname: ["Dezhuan", "D.", "D. Z."]
+    url: https://scholar.google.com/citations?user=fvkFIVAAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"song":
+  - firstname: ["Qianju", "Q.", "Q. J."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"dai":
+  - firstname: ["Shiwei", "S.", "S. W."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"bai":
+  - firstname: ["Genming", "G.", "G. M."]
+    url: https://scholar.google.com/citations?user=6KW1FQoAAAAJ&hl=en

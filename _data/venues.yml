@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"SIAM J. Numer. Anal.":
+  url: https://epubs.siam.org/journal/sjnaam
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SIAM J. Sci. Comput.":
+  url: https://epubs.siam.org/journal/sjoce3
 
-"Vision":
+"Numer. Math.":
+  url: https://link.springer.com/journal/211
   color: "#009f36"
+
+"Science Advances":
+  url: https://advances.sciencemag.org/
+  color: "#e10019"

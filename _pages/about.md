@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: RAP in AMA @ PolyU
+subtitle: Research Assistant Professor in AMA @ PolyU
 
 profile:
   align: right

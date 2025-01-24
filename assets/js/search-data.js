@@ -37,7 +37,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-jupyter-notebook",
+        },{id: "post-a-post-with-math",
+      
+        title: "a post with math",
+      
+      description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/runcode/";
+        
+      },
+    },{id: "post-a-post-with-tikzjax",
+      
+        title: "a post with TikZJax",
+      
+      description: "this is what included TikZ code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/postprocess/";
+        
+      },
+    },{id: "post-a-post-with-math",
+      
+        title: "a post with math",
+      
+      description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/triple-junction/";
+        
+      },
+    },{id: "post-a-post-with-jupyter-notebook",
       
         title: "a post with jupyter notebook",
       
@@ -57,6 +90,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/jupyter-notebook/";
+        
+      },
+    },{id: "post-a-post-with-jupyter-notebook",
+      
+        title: "a post with jupyter notebook",
+      
+      description: "an example of a blog post with jupyter notebook",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/jupyter-notebook-copy/";
         
       },
     },{id: "news-talk-at-iciam2023-waseda-university-tokyo-japan",

@@ -37,7 +37,73 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-math",
+        },{id: "post-wave-equation",
+      
+        title: "Wave-Equation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/WaveEquation/";
+        
+      },
+    },{id: "post-crank-nicolson",
+      
+        title: "Crank-Nicolson",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/CN/";
+        
+      },
+    },{id: "post-integrable-system",
+      
+        title: "Integrable system",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/IntegrableSystem/";
+        
+      },
+    },{id: "post-physical-modelling",
+      
+        title: "Physical modelling",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/physicbg/";
+        
+      },
+    },{id: "post-ngxfem-dockerfile",
+      
+        title: "ngxfem dockerfile",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ngxfem/";
+        
+      },
+    },{id: "post-collocation-and-gauss-quadrature",
+      
+        title: "collocation and Gauss quadrature",
+      
+      description: "collocation and Gauss quadrature",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/collocation-base/";
+        
+      },
+    },{id: "post-a-post-with-math",
       
         title: "a post with math",
       
@@ -70,15 +136,15 @@ ninja.data = [{
           window.location.href = "/blog/2025/triple-junction/";
         
       },
-    },{id: "post-a-post-with-jupyter-notebook",
+    },{id: "post-vscode-instruction",
       
-        title: "a post with jupyter notebook",
+        title: "Vscode Instruction",
       
       description: "an example of a blog post with jupyter notebook",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/anything/";
+          window.location.href = "/blog/2024/instruction/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",

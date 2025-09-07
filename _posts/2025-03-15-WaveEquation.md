@@ -26,3 +26,7 @@ $$
 where $f$ and $g$ are two arbitrary twice differentiable functions of a single variable which are uniquely fixed by some initial equations, see Fig. 2.1 as an example. Clearly the initial data travel along the characteristics $x \pm$ ct without the waves changing form. This means the equation is not dispersive. Since the wave equation is linear, the wave packets are simply superposed when they pass through each other.
 
 A convenient way to analyze the dispersive properties of linear PDEs is to use Fourier transforms $\hat{u}(k, \omega)=\int_{\mathbb{R}^2} u(x, t) \mathrm{e}^{i(k x-\omega t)} \mathrm{d} x$, which leads for the wave equation (2.3) to the dispersion relation $\omega(k)= \pm c k$. This means that the group velocity $v_g=\frac{\mathrm{d} \omega}{\mathrm{d} k}$ is constant. Thus an initial wave packet propagated by the wave equation is not dispersed and keeps its original shape. Both $f$ and $g$ in (2.4) describe traveling waves which are in this example localized in $x$ and thus solitary waves.
+
+
+D. Lannes, Water waves: mathematical theory and asymptotics. Mathematical Surveys and Monographs
+[131] for the systematic rigorous derivation of water waves models in various regimes

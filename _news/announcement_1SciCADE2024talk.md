@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-talk at [SciCADE2024](https://www.scicade2024.org/), National University of Singapore, Singapore.
+talk at SciCADE2024, National University of Singapore, Singapore.
 

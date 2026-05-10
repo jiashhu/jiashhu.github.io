@@ -7,3 +7,5 @@ related_posts: false
 
 talk at [复杂流体问题的数学建模与数据驱动融合方法研讨会](http://tianyuan.amss.ac.cn/ztyt/info/2024/145410.html), 
 天元数学国际交流中心, Kunming, China.
+
+<!--\item Speaker, Seminar on Mathematical Modeling and Data-Driven Fusion Methods for Complex Fluid Problems, Tianyuan Mathematics Research Center, 15--21 December 2024, Kunming, China.-->

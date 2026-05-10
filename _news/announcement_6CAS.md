@@ -7,3 +7,5 @@ related_posts: false
 
 talk at [冯康科学计算青年论坛](https://www.cc.ac.cn/article/163/4230.html), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing
 
+<!--2025 7 11**
+\item Speaker, Feng Kang Youth Forum on Scientific Computing, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 11 July 2025, Beijing, China.-->

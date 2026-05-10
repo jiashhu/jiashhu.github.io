@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant Professor in AMA @ PolyU
+subtitle: Assistant Professor in Department of Applied Mathematics
 
 profile:
   align: right
@@ -18,9 +18,9 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am currently a [Research Assistant Professor (RAP)](https://www.polyu.edu.hk/ama/people/academic-staff/) in the Department of Applied Mathematics at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My research focuses on **numerical analysis** and **scientific computing**, with particular interests in:  
+I am currently an [Assistant Professor](https://www.polyu.edu.hk/ama/people/academic-staff/) in the Department of Applied Mathematics at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My research focuses on **numerical analysis** and **scientific computing**, with particular interests in:  
 
-- [Surface evolution under geometric flows](projects/1_project/)
+- Surface evolution under geometric flows
 - Fluid-structure interaction  
 - Nonlinear Schrödinger equations  
 - Artificial boundary conditions  

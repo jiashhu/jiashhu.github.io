@@ -25,12 +25,21 @@
   "work": [
     {
       "name": "Department of Applied Mathematics, The Hong Kong Polytechnic University",
+      "position": "Assistant Professor",
+      "url": "https://www.polyu.edu.hk/ama/",
+      "startDate": "2026-05-11",
+      "endDate": "present",
+      "summary": "Research on numerical methods for partial differential equations.",
+      "highlights": ["Fluid-structure interaction", "Moving contact line", "Harmonic map heat flow", "Runge-Kutta Method"]
+    },
+    {
+      "name": "Department of Applied Mathematics, The Hong Kong Polytechnic University",
       "position": "Research Assistant Professor",
       "url": "https://www.polyu.edu.hk/ama/",
       "startDate": "2024-12-30",
-      "endDate": "present",
+      "endDate": "2026-05-10",
       "summary": "Research on numerical methods for partial differential equations.",
-      "highlights": ["Finite element methods", "Geometric flows", "Fluid-structure interaction"]
+      "highlights": ["Geometric flows", "Fluid-structure interaction"]
     },
     {
       "name": "Department of Applied Mathematics, The Hong Kong Polytechnic University",
@@ -39,7 +48,7 @@
       "startDate": "2021-03",
       "endDate": "2024-12",
       "summary": "Research on numerical methods for partial differential equations.",
-      "highlights": ["Finite element methods", "Geometric flows", "Nonlinear Schrödinger equations"]
+      "highlights": ["Geometric flows", "Nonlinear Schrödinger equations"]
     }
   ],
   "volunteer": [
